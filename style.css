@@ -1,0 +1,49 @@
+/* p{
+    color: red;
+    background-color: aqua;
+     padding: 5px;
+    border: 1px solid red ;
+    margin 5px;
+    height: 300px;
+    width: 300px;
+}
+.jk{
+    color: blue;
+    background-color: chartreuse;
+   
+}
+#jk1{
+    color: royalblue;
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+    align-content: center;
+} */
+
+/* padding if three value: order=top right-left bottom */
+
+body{
+
+      
+       justify-content: center;
+}
+.a{
+   padding: 5px;
+    border: 1px solid red ;
+    margin:5px;
+    height: 300px;
+    width: 300px;
+    align-content: center;
+    text-align: center;
+    display: inline-block;
+    margin-top: 150px;
+}
+#x{
+    color: aqua;
+    background-color: red;
+
+}
+#y{
+    color: blue;
+    background-color: black;
+}
